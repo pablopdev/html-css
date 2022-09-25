@@ -1,0 +1,26 @@
+		IMAGEM
+jpeg e png são os melhores formatos de imagens compactadas
+
+Prestar atenção e tomar cuidado para a imagem não pesar muito no site.
+
+		SEMÂNTICA
+a tag <b> usa forma, é somente um texto em negrito e não tem semântica
+
+a tag <strong>, por seu lado, têm semântica, danto um texto em destaque.
+Do mesmo jeito funcionam as tags <i> (Não semântica) e <em> (semântica).
+
+sublinhamos com <u> (não semântica) ou <ins> (semântica).
+
+		Cores
+fundo preto e letra branca, dá cansaço visual, evitar usar se tiver muito texto
+
+HARMONIA DAS CORES (em rgb)
+
+cores primárias: Amarelo, Vermelho e Azul
+cores secundárias: laranja, verde, violeta
+cores terciárias: Amarelo-esverdeado, Amarelo-alaranjado, Vermelho-alaranjado,Vermelho-arroxeado, Azul-arroxeado, Azul-esverdeado
+
+As nomenclaturas das cores terciárias são a junção das cores primárias+secundárias
+
+A paleta de cores em sites, tem no máximo de 3 a 5 cores, exceto a branca e preta
+
